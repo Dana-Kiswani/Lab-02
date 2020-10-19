@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Indie+Flower&family=Sansita+Swashed:wght@300&display=swap');
+
+h1{
+    font-size: 44px;
+    font-weight: bold;
+    font-size: 141px;
+    color: #e91e6380;
+    margin: 10px 0;
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    /* font-family: 'Indie Flower', cursive; */
+    }
+
+  h2{
+    font-size: 25px;
+    font-weight: bold;
+    color: #a022ffe6;
+    font-size: 40px;
+    margin-top: 52px;
+    font-family: 'Amatic SC', cursive;
+    /* font-family: 'Indie Flower', cursive;  } */
+  }
+
+  p{
+    font-size: larger;
+    border: solid 5px #ffff000d;
+    width: 353px;
+    font-family: 'Amatic SC', cursive;
+
+
+  }
+
+  span{
+    font-size: larger;
+    font-family: 'Amatic SC', cursive;
+  }
+div{
+  font-size: larger;
+  font-family: 'Amatic SC', cursive;
+
+}
