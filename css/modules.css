@@ -1,7 +1,10 @@
 .dropDown{
-    position: relative;
+    /* position: relative;
     left: 7cm;
-    top: 9cm;
+    top: 9cm; */
+    margin-top: 22px;
+    margin-bottom: 24px;
+    margin-left: 17cm;
     font-size: xxx-large;
     font-family: 'Amatic SC';
 }
