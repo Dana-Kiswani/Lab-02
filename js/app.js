@@ -44,6 +44,7 @@ $('document').ready(function () {
     method: 'get',
     dataType: 'json'
   };
+
   //----
   $.ajax('../data/page-1.json', ajaxSettings).then(data => {
     data.forEach(dana => {
@@ -55,6 +56,7 @@ $('document').ready(function () {
 
   // -------------☎📞☎📞☎📞☎📞---------------
   //---
+
   $('select').on('change', function () {
     let selected = this.value;
     $('section').hide();
